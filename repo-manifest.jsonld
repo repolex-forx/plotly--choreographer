@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/plotly/choreographer/commit/7ee850422796370086c4e2c8aa878deb414a38fc",
       "git:hexsha": "7ee850422796370086c4e2c8aa878deb414a38fc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T01:29:10.870006+00:00"
     },
     {
       "@id": "https://repolex.ai/r/plotly/choreographer/commit/367f289b91bf164656a63850c4b6cb386325b83e",
