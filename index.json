@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "choreographer",
+  "versions": [
+    {
+      "commit": "7ee850422796370086c4e2c8aa878deb414a38fc",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:29:10.871984+00:00"
+    }
+  ]
+}
